@@ -5,8 +5,8 @@ This project was the first project done during **Full Stack Software Engineering
 Task 0 - Shell script that runs a Python script, where its name is stored in an environment variable
 Task 1 - Shell script that runs a Python script, where Python code is saved in an environment variable
 Task 2 - Python script that prints a message
-Task 3 - Prints a message with print function, using format
-Task 4 - Prints a float with print function, using format and precission
+Task 3 - Print the integer stored in the variable 'number', followed by Battery street, using the f-string format
+Task 4 - Print the float stored in the variable 'number' with a precision of 2 digits, using the f-string format
 Task 5 - Prints 3 times a string using print function with format
 Task 6 - Concatenates strings and prints the result
 Task 7 - Prints some letters of a string
